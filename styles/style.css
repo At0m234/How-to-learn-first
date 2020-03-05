@@ -347,8 +347,16 @@
 .footer__social-icon {    
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    color: white;
 }
-z
+
+
+  
+
 
 
 
