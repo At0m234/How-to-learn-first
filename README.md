@@ -1,12 +1,10 @@
-# ___Учебная проектная работа № 1: Научиться учиться___
-## ___Обзор___
-"Научиться учиться" - мой первый лэндинг,
-простая верстка с применением HTML (семантические теги), CSS, flexbox и БЭМ Nested.
-___
-## ___GitHub Pages___
-* [Ссылка на проектную работу](https://At0m234.github.io/how-to-learn-first/)
-___
-## ___Технологический стек:___
-1. HTML
-2. CSS
-4. BEM Nested
+# __Yandex.Practicum. Web Development training course. Project work No. 1: How to learn__
+
+## __Functionality__
+"How to learn" - my first landing page, a simple layout using HTML (semantic tags), CSS, flexbox and BEM Nested
+
+## __[GitHub Pages](https://At0m234.github.io/how-to-learn-first/)__
+## __Stack__
+
+### `HTML`
+### `CSS`
